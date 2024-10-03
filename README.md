@@ -8,10 +8,14 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1.You are given 4 input data points with 3 features each and a target value (y) for each point.
+
+2.Set theta = [0, 0, 0, 0] (4 coefficients for 3 features + intercept).
+
+3.Calculate predictions, compute errors, and update theta iteratively.
+
+4.After finding optimal theta, predict the value for any new data point. 
+
 
 ## Program:
 ```
