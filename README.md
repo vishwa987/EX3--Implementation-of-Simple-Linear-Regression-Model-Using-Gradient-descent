@@ -50,7 +50,8 @@ print(f"predicted value: {pre}")
 ```
 
 ## Output:
-![WhatsApp Image 2024-10-03 at 14 31 03_489877ff](https://github.com/user-attachments/assets/bf525364-f8b8-4c66-bb00-3deb5b54494f)
+![WhatsApp Image 2024-10-03 at 14 39 21_ca3654b5](https://github.com/user-attachments/assets/b3b6c43d-e560-4659-8e29-0fc4d2b8e4f7)
+
 
 
 
